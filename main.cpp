@@ -7,8 +7,8 @@
 #include <cmath>
 using namespace std;
 
-#define TOTAL 100000
-#define RERUN 1000
+#define TOTAL 10000
+#define RERUN 10000
 
 int main ()
 {
